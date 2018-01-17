@@ -4,8 +4,7 @@ class Storage {
   }
 
   key(index) {
-    const key = Object.keys(this)[index];
-    return this[key] || null;
+    return Object.keys(this)[index] || null;
   }
 
   getItem(key) {
