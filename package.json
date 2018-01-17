@@ -1,0 +1,20 @@
+{
+  "name": "node-localstorage-lite",
+  "version": "1.0.0",
+  "description": "in memory localStorage polyfill for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/52cik/node-localstorage-lite.git"
+  },
+  "keywords": ["localStorage", "polyfill"],
+  "author": "楼教主 <fe.52cik@gmail.com> (http://www.52cik.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/52cik/node-localstorage-lite/issues"
+  },
+  "homepage": "https://github.com/52cik/node-localstorage-lite#readme"
+}
